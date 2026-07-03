@@ -1,4 +1,5 @@
 import React from 'react'
+import './App.css'
 import Header from './components/layout/Header'
 import Section1 from './components/layout/Main/Section1'
 import Section2Otabek from './components/layout/Main/Section2Otabek'
